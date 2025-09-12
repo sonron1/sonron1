@@ -90,8 +90,8 @@ Toujours curieux, je me forme en continu pour rester à la pointe de l'innovatio
 ## ✨ Certifications & Formations
 
 - 🎓 Master SIL – Les Cours Sonou (2025)
-- 🎓 Certificate of Completion EHS Lv 1, 2  - GE Vernova (2022)
-- 🎓 Habilitation Electric HTB - HTA – GE Digital (2022)
+- 🎓 Certificat EHS Sécurité en Entreprise  - GE Vernova (2022)
+- 🎓 Habilitation Electric HVO-HTB - HTA – GE Digital (2022)
 - 🎓 Certificat Ingénieur Web – Dive Into Code, Japon (2020)  
 - 🎓 Licence Pro SIL – Cotonou (2018)  
 - 🎓 Bac Série D – CS Ste Félicité (2015)
